@@ -1,6 +1,6 @@
 {
   "name": "grokability/snipe-it",
-  "description": "Open source asset management system built on Laravel.",
+  "description": "Open source asset management system built on Laravel 12.",
   "keywords": [
     "assets",
     "asset-management",
